@@ -24,7 +24,7 @@ requirements.txt        # Python dependencies
 1. **Clone the repo and install dependencies:**
    ```sh
    git clone <repo-url>
-   cd tds_project_v2
+   cd tds-project-v2-full-repo
    uv pip install -r requirements.txt
    ```
 2. **Set your API key:**
