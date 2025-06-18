@@ -1,0 +1,21 @@
+[project]
+name = "tds-project-v2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "python-dotenv",
+    "aiohttp",
+    "numpy",
+    "pydantic",
+    "beautifulsoup4",
+    "html2text",
+    "tqdm",
+    "markdown",
+    "python-multipart",
+    "setuptools"
+]
+
