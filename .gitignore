@@ -6,17 +6,28 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
-# Ignore directories
-downloaded_threads/
-markdown_files/
+# Byte-compiled / cache files
 __pycache__/
-venv/
-.venv/
+*.py[cod]
 
-# Ignore files
-.env
-preprocess.py
-*.pyc
+# Virtual environment folders
+.venv/
+venv/
+.venv 
+
+# System files
 .DS_Store
+
+# Environment variables
+.env
+
+# Lock & Python version files
+.python-version
+
+# SQLite database or generated data
+knowledge_base.db
+
+# Development logs
+promptfoo-errors.log
+
+
